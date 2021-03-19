@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="TerraNova" size="0.150000 0.207852" />
+    <ImageTarget name="Glossopteris_tree" size="0.150000 0.200000" />
+    <ImageTarget name="scott_statue" size="0.150000 0.225000" />
+    <ImageTarget name="kings_jester" size="0.060000 0.065200" />
+    <ImageTarget name="Scott2" size="0.150000 0.107846" />
+  </Tracking>
+</QCARConfig>
